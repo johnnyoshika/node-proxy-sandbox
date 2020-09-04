@@ -1,0 +1,17 @@
+{
+  "name": "node-proxy-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
